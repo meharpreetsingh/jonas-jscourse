@@ -165,3 +165,8 @@ main {
   font-weight: 700;
   color: #c7365f;
 }
+
+/* Classes for JavaScript to work */
+.hidden {
+  display: none;
+}
